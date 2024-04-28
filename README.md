@@ -87,7 +87,7 @@ The product comes with a usable JWT Authentication flow that provides only the b
 ```javascript
 const config = {
     ...
-    API_SERVER: 'http://localhost:5000/api/'  // <-- The magic line
+    API_SERVER: 'http://localhost:3006/api/'  // <-- The magic line
 };
 ```
 
